@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.color-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border-width: 0px;
+  margin: 20px;
+  padding: 20px;
+  height: 350px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+}
